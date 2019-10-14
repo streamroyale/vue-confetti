@@ -16,7 +16,7 @@ export default class BaseParticle {
    *   The speed at which particles fall.
    */
   constructor({
-    color = 'blue',
+    color = '#f6c675',
     size = 10,
     dropRate = 10,
   } = {}) {
